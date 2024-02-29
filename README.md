@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ali B! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ali B <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner
 </em></p>
  
@@ -36,7 +36,7 @@
 ## ⚡ Profile Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibehram-ai" alt="alibehram-ai" /></a> </p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashakki&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibehram-ai&hide=TeX&layout=compact)
  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fakashakki%2Fakashakki&label=Visitors%20Today&countColor=%23f0b354)
  
