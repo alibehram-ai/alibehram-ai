@@ -1,5 +1,5 @@
-<h2> Hi, I'm Ali B <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner
+<h2> Hi, I'm Ali Behram </h2>
+<p><em>Full Stack Software Enginner
 </em></p>
  
 
