@@ -4,7 +4,8 @@
  
 
  
-## ⚡ Technologies
+## ⚡ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,tailwind,nest,svelte,astro,react,nextjs,vue,nuxtjs,angular,js,go,python,aws,azure,docker,kubernetes,cpp,bash,jenkins,prisma,mongodb,postgres,sql)](https://skillicons.dev)
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
