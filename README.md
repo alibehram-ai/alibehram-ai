@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ali Behram </h2>
-<p><em>Full Stack Software Enginner
+<p><em>Full Stack Software Engineer
 </em></p>
  
 
